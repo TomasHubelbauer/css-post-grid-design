@@ -85,6 +85,8 @@ h1 {
   font: normal 10pt sans-serif;
   line-height: 150%;
   margin: 0 50px;
+  max-height: 140px;
+  overflow: hidden;
   text-align: justify;
   word-spacing: 150%;
 }
