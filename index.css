@@ -34,10 +34,12 @@ body {
 h1 {
   color: #A6A8AC;
   font: 900 220px sans-serif;
-  margin: -100px 0 0 0;
+  line-height: 80%;
+  margin: 0;
   position: absolute;
   right: 10%;
   text-transform: uppercase;
+  top: 40px;
 }
 
 .post {
