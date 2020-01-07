@@ -11,3 +11,7 @@ Theirs:
 Mine:
 
 ![](mine.png)
+
+## To-Do
+
+### Make redesign challenges a thing and create an umbrella for it
